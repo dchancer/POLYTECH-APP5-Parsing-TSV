@@ -30,3 +30,7 @@ Voir en ligne : https://www.monde-diplomatique.fr/cartes/PPA
 
 [Licence ODC-By](https://github.com/mdiplo/Medias_francais/blob/master/LICENSE.txt) : Open Data Commons Attribution License ([ODC-By v1.0](https://opendatacommons.org/licenses/by/1.0/))
 
+
+
+Added by me : Le fichier reader.tsv permet de rechercher les propriétaires finaux et leur pourcentage de possesion de chaque journal/radio/emission.
+
